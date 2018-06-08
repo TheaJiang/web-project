@@ -1,0 +1,4 @@
+@CHARSET "UTF-8";
+li {padding:0;margin:0;overflow:hidden;line-weight:32px;height:32px;padding-left:25px;padding-right:19px;
+font-size:14px;font-weight:400;background-color:#FFFFFF;list-style:none;width:145px;color:#666;position:relative;
+display:list-item;text-align:-webkit-match-parent;}
